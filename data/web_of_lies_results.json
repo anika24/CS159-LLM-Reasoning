@@ -48,7 +48,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -627,7 +627,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_2",
@@ -970,7 +970,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -1119,7 +1119,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_3b",
@@ -1857,7 +1857,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_6a",
@@ -2110,7 +2110,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -2496,7 +2496,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct",
       "correct",
       "correct"
@@ -2547,7 +2547,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_8b",
@@ -2886,7 +2886,7 @@
       "correct",
       "incorrect",
       "incorrect",
-      "correct incorrect",
+      "incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -3528,7 +3528,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -3843,7 +3843,7 @@
     ],
     "answer_in_alignment": "no",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_13a",
@@ -3939,7 +3939,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_13b",
@@ -3986,7 +3986,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "incorrect",
       "correct",
@@ -4230,7 +4230,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_14b",
@@ -4250,7 +4250,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -4284,8 +4284,8 @@
       "No"
     ],
     "correctness_annotations": [
+      "incorrect",
       "correct",
-      "correct incorrect",
       "correct",
       "correct",
       "correct"
@@ -5112,7 +5112,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -6072,9 +6072,9 @@
       "No"
     ],
     "correctness_annotations": [
+      "incorrect",
       "correct",
       "correct",
-      "correct incorrect",
       "correct",
       "correct"
     ],
@@ -6170,7 +6170,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -6361,7 +6361,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -6527,7 +6527,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -6681,7 +6681,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -6911,7 +6911,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -7219,7 +7219,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect"
+      "incorrect"
     ],
     "relevance_annotations": [
       "relevant",
@@ -7230,7 +7230,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "No. Bernita does not speak the truth because Amberly does not deceive, according to Phoebe's statement."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_25a",
@@ -7402,7 +7402,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -7491,7 +7491,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -7696,7 +7696,7 @@
       "Gwenn says Dallas tells the truth; given that Dallas does tell the truth and Gwenn confirms this, Gwenn also tells the truth.",
       "Ka says Gwenn lies; however, according to our deductions, Gwenn tells the truth.",
       "Since Gwenn tells the truth and Ka says that Gwenn lies, it must be that Ka is lying when saying Gwenn lies.",
-      "No."
+      "No"
     ],
     "correctness_annotations": [
       "correct",
@@ -7716,7 +7716,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_27",
@@ -7809,7 +7809,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_27a",
@@ -7944,7 +7944,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -8073,8 +8073,8 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
-      "correct incorrect",
+      "incorrect",
+      "incorrect",
       "correct",
       "incorrect",
       "correct"
@@ -8091,7 +8091,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_28a",
@@ -8277,7 +8277,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_29",
@@ -8373,7 +8373,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_29a",
@@ -8509,9 +8509,9 @@
     ],
     "correctness_annotations": [
       "correct",
+      "incorrect",
       "correct",
-      "correct incorrect",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -8894,9 +8894,9 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct",
-      "correct incorrect",
       "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -9891,7 +9891,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_34b",
@@ -10086,7 +10086,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_35a",
@@ -10602,7 +10602,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "incorrect",
       "incorrect",
       "correct"
     ],
@@ -10760,7 +10760,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -12640,7 +12640,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "incorrect",
       "correct"
     ],
@@ -12727,8 +12727,8 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct",
-      "correct incorrect",
+      "incorrect",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -12825,7 +12825,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -13521,7 +13521,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_47b",
@@ -13803,7 +13803,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_48b",
@@ -13998,7 +13998,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_49a",
@@ -14088,7 +14088,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_49b",
@@ -14417,9 +14417,9 @@
       "No"
     ],
     "correctness_annotations": [
-      "incorrect",
       "correct",
-      "correct incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -14469,7 +14469,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_51",
@@ -14696,10 +14696,10 @@
     ],
     "correctness_annotations": [
       "correct",
+      "incorrect",
+      "incorrect",
+      "incorrect",
       "correct",
-      "incorrect",
-      "incorrect",
-      "correct incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -15588,7 +15588,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_55",
@@ -16338,7 +16338,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_57b",
@@ -17373,7 +17373,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_61a",
@@ -17463,7 +17463,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_61b",
@@ -17509,7 +17509,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -17536,7 +17536,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct",
       "correct",
       "correct"
@@ -17890,7 +17890,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -18108,7 +18108,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -18273,7 +18273,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_64b",
@@ -18610,8 +18610,8 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
-      "correct incorrect",
+      "correct",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -18855,7 +18855,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_66b",
@@ -18871,7 +18871,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -19468,10 +19468,10 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -19562,10 +19562,10 @@
       "Yes"
     ],
     "correctness_annotations": [
+      "correct",
       "incorrect",
       "correct",
-      "correct",
-      "correct incorrect",
+      "incorrect",
       "incorrect",
       "correct",
       "correct"
@@ -19626,7 +19626,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -20154,7 +20154,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_71a",
@@ -20250,7 +20250,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_71b",
@@ -20340,7 +20340,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_72",
@@ -20390,7 +20390,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -20718,7 +20718,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_73a",
@@ -20736,7 +20736,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -20844,7 +20844,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -21072,7 +21072,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -21378,7 +21378,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_75b",
@@ -21981,9 +21981,9 @@
       "No"
     ],
     "correctness_annotations": [
+      "incorrect",
       "correct",
-      "correct",
-      "correct incorrect",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -22731,7 +22731,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -23049,7 +23049,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_81b",
@@ -23458,7 +23458,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "incorrect",
       "correct",
       "correct"
@@ -23502,7 +23502,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_83a",
@@ -23668,7 +23668,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -23682,7 +23682,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_84",
@@ -23787,7 +23787,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_84a",
@@ -23923,7 +23923,7 @@
     ],
     "correctness_annotations": [
       "correct",
-      "correct incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -24180,7 +24180,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "correct",
       "correct"
     ],
     "relevance_annotations": [
@@ -24210,7 +24210,7 @@
       "correct",
       "correct",
       "correct",
-      "correct incorrect",
+      "incorrect",
       "correct"
     ],
     "relevance_annotations": [
@@ -24912,7 +24912,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_88a",
@@ -26355,7 +26355,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": false,
-    "pred_answer": "No."
+    "pred_answer": "No"
   },
   {
     "id": "web_of_lies_93a",
@@ -27681,7 +27681,7 @@
     ],
     "answer_in_alignment": "yes",
     "true_answer": true,
-    "pred_answer": "Yes."
+    "pred_answer": "Yes"
   },
   {
     "id": "web_of_lies_98",
