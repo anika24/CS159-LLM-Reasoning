@@ -56,7 +56,9 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -80,6 +82,8 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -96,10 +100,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_0",
@@ -107,7 +111,7 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -147,10 +151,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_1",
@@ -212,6 +216,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -231,6 +236,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -440,6 +446,8 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -457,6 +465,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -593,10 +603,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_3",
@@ -644,10 +654,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_4",
@@ -714,7 +724,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -736,7 +745,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -754,10 +762,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_4",
@@ -767,7 +775,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -811,10 +819,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_5",
@@ -870,7 +878,7 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -912,14 +920,14 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.8321457507196639
+    "resilience_metric": 0.845337822785674
   },
   {
     "id": "web_of_lies_5",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -965,7 +973,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.8321457507196639
+    "resilience_metric": 0.845337822785674
   },
   {
     "id": "web_of_lies_6",
@@ -1026,6 +1034,9 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1043,6 +1054,9 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1075,6 +1089,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1096,6 +1111,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1194,8 +1210,6 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "correct",
       "correct",
       "correct",
       "correct"
@@ -1222,8 +1236,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -1246,7 +1258,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9545280731202851
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_7",
@@ -1255,8 +1267,6 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "correct",
       "correct",
       "correct",
       "correct"
@@ -1281,8 +1291,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -1303,7 +1311,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9545280731202851
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_8",
@@ -1371,9 +1379,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1393,9 +1398,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1432,9 +1434,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1452,9 +1451,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1548,6 +1544,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1567,6 +1564,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1708,9 +1706,9 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1731,7 +1729,7 @@
     ],
     "relevance_annotations": [
       "relevant",
-      "not relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant"
@@ -1752,10 +1750,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "no",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.5972345655040153
+    "resilience_metric": 0.845337822785674
   },
   {
     "id": "web_of_lies_10",
@@ -1763,9 +1761,9 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -1784,7 +1782,7 @@
     ],
     "relevance_annotations": [
       "relevant",
-      "not relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant"
@@ -1803,10 +1801,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.6171047658721894
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_11",
@@ -1861,7 +1859,9 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -1882,6 +1882,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1906,7 +1908,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_11",
@@ -1914,7 +1916,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -1933,6 +1936,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -1955,7 +1959,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_12",
@@ -2008,7 +2012,8 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -2028,6 +2033,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2051,7 +2057,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_12",
@@ -2059,7 +2065,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -2078,6 +2085,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2100,7 +2108,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_13",
@@ -2322,7 +2330,9 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -2344,6 +2354,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2371,7 +2383,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_14",
@@ -2381,7 +2393,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct",
       "correct"
     ],
@@ -2403,7 +2414,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2430,7 +2440,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_15",
@@ -2492,7 +2502,6 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
       "correct",
       "correct",
       "correct",
@@ -2515,7 +2524,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -2531,17 +2539,17 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_15",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -2588,10 +2596,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_16",
@@ -2656,7 +2664,10 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -2677,6 +2688,9 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2701,7 +2715,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.911216412405933
+    "resilience_metric": 0.960155944394441
   },
   {
     "id": "web_of_lies_16",
@@ -2709,7 +2723,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -2727,6 +2742,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2748,7 +2764,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_17",
@@ -2811,6 +2827,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -2832,6 +2849,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2868,6 +2886,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -2887,6 +2906,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -2968,6 +2988,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -2987,6 +3008,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3021,6 +3043,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3038,6 +3061,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3127,7 +3151,8 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -3146,6 +3171,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3168,7 +3194,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_19",
@@ -3176,7 +3202,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -3195,6 +3222,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3217,7 +3245,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_20",
@@ -3282,9 +3310,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3302,9 +3327,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3338,8 +3360,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3357,8 +3377,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3450,8 +3468,11 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -3470,6 +3491,9 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3494,7 +3518,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8954951277214389
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_21",
@@ -3503,8 +3527,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -3523,7 +3546,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3547,7 +3569,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8954951277214389
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_22",
@@ -3615,7 +3637,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3636,7 +3657,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3663,7 +3683,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_22",
@@ -3671,10 +3691,9 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3696,7 +3715,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3724,7 +3742,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_23",
@@ -3846,6 +3864,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3863,6 +3882,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3953,7 +3973,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -3971,7 +3990,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -3995,7 +4013,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_24",
@@ -4006,7 +4024,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -4024,7 +4041,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -4048,7 +4064,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_25",
@@ -4416,6 +4432,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -4433,6 +4450,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -4574,7 +4592,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -4622,10 +4640,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.745896685931715
+    "resilience_metric": 0.882824855787278
   },
   {
     "id": "web_of_lies_28",
@@ -4633,7 +4651,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -4655,6 +4674,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -4671,10 +4691,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_29",
@@ -4894,7 +4914,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -4939,7 +4959,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_30",
@@ -4947,7 +4967,7 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -4992,7 +5012,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_31",
@@ -5068,10 +5088,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5089,10 +5105,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5127,10 +5139,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5151,10 +5159,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5247,7 +5251,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5267,7 +5270,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5304,7 +5306,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5322,7 +5323,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5403,8 +5403,11 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5422,6 +5425,9 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5444,7 +5450,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_33",
@@ -5452,8 +5458,9 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5471,6 +5478,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5493,7 +5501,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_34",
@@ -5566,8 +5574,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "correct",
       "correct",
       "correct",
       "correct"
@@ -5592,8 +5598,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -5610,10 +5614,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8086364639853885
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_34",
@@ -5623,9 +5627,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "correct",
-      "correct",
       "correct",
       "correct"
     ],
@@ -5648,9 +5649,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -5667,10 +5665,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8086364639853885
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_35",
@@ -5738,7 +5736,9 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5757,6 +5757,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5780,7 +5782,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9051801385338537
+    "resilience_metric": 0.947049186792881
   },
   {
     "id": "web_of_lies_35",
@@ -5789,7 +5791,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5809,6 +5812,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5833,7 +5837,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.7898959235991435
+    "resilience_metric": 0.7925794605118457
   },
   {
     "id": "web_of_lies_36",
@@ -5901,9 +5905,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -5922,9 +5923,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -5958,10 +5956,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
+      "incorrect",
       "correct",
       "correct"
     ],
@@ -5980,9 +5975,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -6006,7 +5998,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 0.9109656309587593
   },
   {
     "id": "web_of_lies_37",
@@ -6222,7 +6214,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6239,7 +6230,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -6375,6 +6365,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6400,6 +6391,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6421,16 +6413,17 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_39",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -6454,6 +6447,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6470,10 +6464,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8321457507196639
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_40",
@@ -6543,6 +6537,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6569,6 +6564,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6588,10 +6584,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_40",
@@ -6602,8 +6598,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6626,8 +6620,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6645,10 +6637,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_41",
@@ -6702,7 +6694,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6724,6 +6717,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6741,10 +6735,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_41",
@@ -6753,7 +6747,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6774,6 +6769,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -6790,10 +6786,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_42",
@@ -6907,6 +6903,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -6924,6 +6921,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -7011,7 +7009,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7032,7 +7029,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -7049,10 +7045,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_43",
@@ -7100,10 +7096,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8321457507196639
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_44",
@@ -7170,6 +7166,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7187,6 +7184,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -7219,6 +7217,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7236,6 +7235,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -7327,8 +7327,8 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -7368,7 +7368,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8752645952508517
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_45",
@@ -7376,8 +7376,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -7419,7 +7419,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8752645952508517
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_46",
@@ -7487,7 +7487,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7508,7 +7507,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -7546,7 +7544,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7564,7 +7561,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -7646,8 +7642,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7687,10 +7683,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7306590478134012
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_47",
@@ -7699,8 +7695,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7738,10 +7734,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7306590478134012
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_48",
@@ -7808,12 +7804,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7836,12 +7826,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
-      "not relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -7863,7 +7847,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_48",
@@ -7874,11 +7858,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -7904,11 +7883,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
-      "not relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -7932,7 +7906,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_49",
@@ -8046,6 +8020,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8067,6 +8042,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -8153,6 +8129,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8175,6 +8152,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -8192,10 +8170,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_50",
@@ -8243,10 +8221,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8321457507196639
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_51",
@@ -8305,6 +8283,10 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8322,6 +8304,10 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -8354,6 +8340,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8371,6 +8358,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -8454,9 +8442,8 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -8475,7 +8462,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -8499,7 +8485,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_52",
@@ -8507,9 +8493,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -8528,7 +8513,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -8552,7 +8536,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_53",
@@ -8611,7 +8595,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct",
@@ -8664,7 +8648,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_53",
@@ -8672,7 +8656,6 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
       "correct",
       "correct",
       "correct",
@@ -8697,7 +8680,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -8717,7 +8699,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9178264160980045
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_54",
@@ -8786,7 +8768,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8829,7 +8811,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_54",
@@ -8839,7 +8821,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -8880,7 +8862,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_55",
@@ -8946,7 +8928,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -8990,7 +8972,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_55",
@@ -8999,7 +8981,6 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
       "correct",
       "correct",
       "correct"
@@ -9023,7 +9004,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -9043,7 +9023,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9178264160980045
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_56",
@@ -9109,6 +9089,7 @@
       "correct",
       "correct",
       "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9126,6 +9107,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9149,7 +9131,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 0.947049186792881
   },
   {
     "id": "web_of_lies_56",
@@ -9319,6 +9301,8 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9336,6 +9320,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9425,7 +9411,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -9475,7 +9461,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_58",
@@ -9484,7 +9470,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -9526,7 +9512,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_59",
@@ -9590,7 +9576,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9610,7 +9595,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9647,7 +9631,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9665,7 +9648,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9764,8 +9746,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9784,8 +9764,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9822,9 +9800,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9842,9 +9817,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -9924,7 +9896,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9961,10 +9933,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_61",
@@ -9973,7 +9945,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -9994,6 +9967,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -10010,10 +9984,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_62",
@@ -10070,8 +10044,9 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "correct",
       "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -10092,6 +10067,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -10117,7 +10093,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_62",
@@ -10126,7 +10102,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -10146,6 +10123,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -10170,7 +10148,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_63",
@@ -10234,6 +10212,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -10255,6 +10234,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -10445,6 +10425,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -10462,6 +10443,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -10539,7 +10521,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -10577,10 +10559,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7625580006956578
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_65",
@@ -10588,7 +10570,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -10610,6 +10593,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -10626,10 +10610,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7625580006956578
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_66",
@@ -10697,7 +10681,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -10745,7 +10729,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_66",
@@ -10754,7 +10738,7 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -10796,7 +10780,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9366266346477383
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_67",
@@ -10860,7 +10844,8 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -10886,6 +10871,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -10905,17 +10891,18 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_67",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -10938,6 +10925,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -10954,10 +10942,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_68",
@@ -11060,10 +11048,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_68",
@@ -11111,10 +11099,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_69",
@@ -11181,9 +11169,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "correct",
-      "correct",
-      "correct",
+      "incorrect",
       "correct",
       "correct",
       "correct"
@@ -11203,8 +11189,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -11228,15 +11212,13 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.7849565497295545
+    "resilience_metric": 0.7924824243042641
   },
   {
     "id": "web_of_lies_69",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "correct",
-      "correct",
       "correct",
       "correct",
       "correct",
@@ -11258,8 +11240,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -11346,7 +11326,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -11386,10 +11366,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_70",
@@ -11397,7 +11377,7 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -11437,10 +11417,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_71",
@@ -11499,6 +11479,8 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -11517,6 +11499,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -11550,6 +11534,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -11567,6 +11552,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -11813,7 +11799,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -11839,7 +11824,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -11861,10 +11845,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_73",
@@ -11874,7 +11858,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -11922,10 +11906,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.7410842782971282
+    "resilience_metric": 0.845337822785674
   },
   {
     "id": "web_of_lies_74",
@@ -11986,6 +11970,8 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12004,6 +11990,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12037,6 +12025,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12056,6 +12045,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12137,6 +12127,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12154,6 +12145,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12186,6 +12178,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12203,6 +12196,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12289,6 +12283,8 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12310,6 +12306,8 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12449,9 +12447,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12469,8 +12465,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12494,7 +12488,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.910082332952496
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_77",
@@ -12504,9 +12498,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12523,8 +12515,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -12547,7 +12537,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.910082332952496
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_78",
@@ -12601,9 +12591,9 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -12645,16 +12635,16 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8752645952508517
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_78",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -12696,7 +12686,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8752645952508517
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_79",
@@ -12801,10 +12791,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_79",
@@ -12815,7 +12805,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12840,7 +12829,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -12860,10 +12848,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.845337822785674
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_80",
@@ -12932,8 +12920,9 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -12953,8 +12942,9 @@
     "relevance_annotations": [
       "relevant",
       "relevant",
-      "not relevant",
-      "not relevant",
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant"
     ],
@@ -12975,7 +12965,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7965772719855865
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_80",
@@ -12985,8 +12975,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13006,8 +12995,7 @@
     "relevance_annotations": [
       "relevant",
       "relevant",
-      "not relevant",
-      "not relevant",
+      "relevant",
       "relevant",
       "relevant"
     ],
@@ -13028,7 +13016,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7965772719855865
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_81",
@@ -13090,7 +13078,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13108,6 +13097,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -13130,7 +13120,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_81",
@@ -13139,7 +13129,8 @@
     "correctness_annotations": [
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13157,6 +13148,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -13179,7 +13171,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_82",
@@ -13294,7 +13286,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13312,7 +13303,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -13546,6 +13536,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13565,6 +13556,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -13599,6 +13591,10 @@
       "correct",
       "correct",
       "correct",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13618,6 +13614,10 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
+      "relevant",
+      "relevant",
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -13870,7 +13870,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13906,10 +13906,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_86",
@@ -13919,7 +13919,7 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -13957,10 +13957,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7869927723218502
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_87",
@@ -14189,7 +14189,8 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -14207,6 +14208,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14231,7 +14233,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9178264160980045
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_88",
@@ -14242,7 +14244,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -14260,7 +14261,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14284,7 +14284,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.947049186792881
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_89",
@@ -14365,8 +14365,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "correct",
       "correct",
       "correct",
       "correct"
@@ -14391,8 +14389,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -14412,7 +14408,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.960155944394441
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_89",
@@ -14422,9 +14418,6 @@
       "correct",
       "correct",
       "correct",
-      "incorrect",
-      "correct",
-      "correct",
       "correct",
       "correct"
     ],
@@ -14443,9 +14436,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14469,7 +14459,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.960155944394441
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_90",
@@ -14544,8 +14534,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -14564,8 +14552,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14602,9 +14588,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -14624,9 +14607,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14713,7 +14693,7 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
       "correct",
       "correct"
     ],
@@ -14756,7 +14736,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.8993873582899775
+    "resilience_metric": 0.9366266346477383
   },
   {
     "id": "web_of_lies_91",
@@ -14764,7 +14744,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -14783,6 +14764,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14805,7 +14787,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.9210975629902004
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_92",
@@ -14867,10 +14849,11 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -14893,6 +14876,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -14921,16 +14905,16 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "no",
-    "resilience_metric": 0.7009774279687488
+    "resilience_metric": 0.8126755940149848
   },
   {
     "id": "web_of_lies_92",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
-      "incorrect",
-      "incorrect",
+      "correct",
+      "correct",
+      "correct",
       "incorrect",
       "correct"
     ],
@@ -14972,7 +14956,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7488226601303001
+    "resilience_metric": 0.9109656309587593
   },
   {
     "id": "web_of_lies_93",
@@ -15035,6 +15019,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15054,6 +15039,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15088,6 +15074,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15105,6 +15092,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15194,7 +15182,8 @@
     "model": "gpt-4-turbo",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -15219,6 +15208,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -15238,10 +15228,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_94",
@@ -15249,7 +15239,8 @@
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
       "correct",
-      "incorrect",
+      "correct",
+      "correct",
       "correct",
       "correct"
     ],
@@ -15271,6 +15262,7 @@
       "relevant",
       "relevant",
       "relevant",
+      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -15287,10 +15279,10 @@
       "relevant",
       "relevant"
     ],
-    "answer_in_alignment": "no",
+    "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.7727207793864215
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_95",
@@ -15360,11 +15352,9 @@
     "task": "web_of_lies",
     "model": "gpt-4-turbo",
     "correctness_annotations": [
-      "incorrect",
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
+      "correct",
       "correct",
       "correct",
       "correct"
@@ -15390,8 +15380,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -15412,18 +15400,15 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.882824855787278
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_95",
     "task": "web_of_lies",
     "model": "gemini-1.5-flash",
     "correctness_annotations": [
-      "incorrect",
       "correct",
       "correct",
-      "incorrect",
-      "incorrect",
       "correct",
       "correct",
       "correct"
@@ -15447,9 +15432,6 @@
       "relevant",
       "relevant",
       "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant"
     ],
     "relevance_annotations_a": [
@@ -15469,7 +15451,7 @@
     "answer_in_alignment": "yes",
     "answer_in_alignment_a": "yes",
     "answer_in_alignment_b": "yes",
-    "resilience_metric": 0.882824855787278
+    "resilience_metric": 1.0
   },
   {
     "id": "web_of_lies_96",
@@ -15532,10 +15514,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15553,10 +15531,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15590,9 +15564,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15610,9 +15581,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15710,9 +15678,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15730,9 +15695,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15767,9 +15729,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15787,9 +15746,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15874,6 +15830,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15893,6 +15850,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -15927,6 +15885,7 @@
       "correct",
       "correct",
       "correct",
+      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -15944,6 +15903,7 @@
       "correct"
     ],
     "relevance_annotations": [
+      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -16052,12 +16012,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -16074,12 +16028,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
@@ -16115,10 +16063,6 @@
       "correct",
       "correct",
       "correct",
-      "correct",
-      "correct",
-      "correct",
-      "correct",
       "correct"
     ],
     "correctness_annotations_a": [
@@ -16136,10 +16080,6 @@
       "correct"
     ],
     "relevance_annotations": [
-      "relevant",
-      "relevant",
-      "relevant",
-      "relevant",
       "relevant",
       "relevant",
       "relevant",
